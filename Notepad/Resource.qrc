@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Rec">
+        <file>sheet.png</file>
+        <file>scissors.png</file>
+        <file>roller.png</file>
+        <file>return.png</file>
+        <file>plus.png</file>
+        <file>pause.png</file>
+        <file>next .png</file>
+        <file>info.png</file>
+        <file>download.png</file>
+        <file>photos_2019_12_22_fst_ice-ornament-frosen.jpg</file>
+    </qresource>
+</RCC>
